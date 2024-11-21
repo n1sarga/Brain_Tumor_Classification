@@ -25,4 +25,4 @@ The results demonstrate the comparative effectiveness of the models in accuratel
 1. Place the image file (e.g., `results.png`) in your repository directory (e.g., `assets/` folder).
 2. Use the Markdown syntax to embed the image in the README file:
    ```markdown
-   ![Model Comparison Results](assets/results.png)
+   ![Model Comparison Results](assets/Results/Epoch_vs_accuracies (Train).png)
