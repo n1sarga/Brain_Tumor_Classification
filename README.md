@@ -20,7 +20,11 @@ Each model's performance is evaluated based on key metrics, including accuracy, 
 
 ## **Results**
 
-1. **Training Accuracies**: ![Epoch_vs_accuracies (Train)](https://github.com/user-attachments/assets/35f11536-0c88-4d08-8020-3ca2d6a1b86b)
-2. **Training Losses**: ![Epoch_vs_losses (Train)](https://github.com/user-attachments/assets/e368e819-cac5-4721-80d7-84631624a081)
-3. **Validation Accuracies**: ![Epoch_vs_accuracies (Val)](https://github.com/user-attachments/assets/bececec7-73a7-4714-a99f-ccc48e122864)
-4. **Validation Losses**: ![Epoch_vs_losses (Val)](https://github.com/user-attachments/assets/275f19f9-e1ff-4a72-b74b-5b8faa286619)
+1. **Training Accuracies**:
+![Epoch_vs_accuracies (Train)](https://github.com/user-attachments/assets/35f11536-0c88-4d08-8020-3ca2d6a1b86b)
+2. **Training Losses**:
+![Epoch_vs_losses (Train)](https://github.com/user-attachments/assets/e368e819-cac5-4721-80d7-84631624a081)
+3. **Validation Accuracies**:
+![Epoch_vs_accuracies (Val)](https://github.com/user-attachments/assets/bececec7-73a7-4714-a99f-ccc48e122864)
+4. **Validation Losses**:
+![Epoch_vs_losses (Val)](https://github.com/user-attachments/assets/275f19f9-e1ff-4a72-b74b-5b8faa286619)
