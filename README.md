@@ -1,7 +1,7 @@
 # **Brain Tumor Classification**
 
 ## **Acknowledgement**
-This is the final project of the CSE438 (Digital Image Processing) course. This study has been accepted at the International Conference on Signal Processing, Information, Communication and Systems 2024 (SPICSCON2024). The study was supervised by Prof. Dr. Ahmed Wasif Reza and conducted by Nisarga Mridha (me), Sofia Noor Rafa, Md. Siamul Islam Shayon, and Nusrat Sultana.
+This is the final project of the CSE438 (Digital Image Processing) course. This study has been accepted at the International Conference on Signal Processing, Information, Communication and Systems 2024 ([SPICSCON2024](https://spicscon.org/2024)). The study was supervised by Prof. Dr. Ahmed Wasif Reza and conducted by Nisarga Mridha (me), Sofia Noor Rafa, Md. Siamul Islam Shayon, and Nusrat Sultana.
 
 ## **Dataset**
 The dataset used for this project can be accessed from [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). It consists of MRI images of brain tumors categorized into classes for supervised learning.
